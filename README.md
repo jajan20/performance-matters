@@ -1,18 +1,9 @@
-# Performance matters
+# Feature MinifyCSS & FontSwap
+![](https://github.com/jajan20/performance-matters/blob/MinifyCSS-%26-FontSwap/minifyCSS_fontSwap.png)
 
-## Project setup
+**Internet speed:** Slow 3G
 
-This project serves an adapted version of the [Bootstrap documentation website](http://getbootstrap.com/). It is based on the [github pages branche of Bootstrap](https://github.com/twbs/bootstrap/tree/gh-pages). 
+**Sources:**
 
-Differences from actual Bootstrap documentation:
-
-- Added custom webfont
-- Removed third party scripts
-- The src directory is served with [Express](https://expressjs.com/).
-- Templating is done with [Nunjucks](https://mozilla.github.io/nunjucks/)
-
-## Getting started
-
-- Install dependencies: `npm install`
-- Serve: `npm start`
-- Expose localhost: `npm run expose`
+- [CSS Minifier](https://cssminifier.com/)
+- [MDN Font Display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display)
