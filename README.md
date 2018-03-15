@@ -1,18 +1,11 @@
-# Performance matters
+# Feature MinifyJS
+![](https://github.com/jajan20/performance-matters/blob/MinifiedJS/minifyJS.png)
 
-## Project setup
+**Internet speed:** Slow 3G
 
-This project serves an adapted version of the [Bootstrap documentation website](http://getbootstrap.com/). It is based on the [github pages branche of Bootstrap](https://github.com/twbs/bootstrap/tree/gh-pages). 
+On the left you see the initial loading time of the website. After using a minify tool to compress the biggest JS files the loading time went up for some elements while others are faster. Image on the right you can see the results after compressing JS.
 
-Differences from actual Bootstrap documentation:
+**Sources:**
 
-- Added custom webfont
-- Removed third party scripts
-- The src directory is served with [Express](https://expressjs.com/).
-- Templating is done with [Nunjucks](https://mozilla.github.io/nunjucks/)
-
-## Getting started
-
-- Install dependencies: `npm install`
-- Serve: `npm start`
-- Expose localhost: `npm run expose`
+- [jsCompress](https://jscompress.com/)
+- [Minifier](https://www.minifier.org/)
