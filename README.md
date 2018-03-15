@@ -1,4 +1,4 @@
-# Feature MinifyJS
+# Feature Image Optimize
 ![](https://github.com/jajan20/performance-matters/blob/Image-Optimisation/imageOptimize.png)
 
 **Internet speed:** Slow 3G
