@@ -4,7 +4,7 @@
 In this assignment for performance matters we were tasked with optimizing the bootstrap webpage.
 
 ### Results
-!()[]
+![](https://github.com/jajan20/performance-matters/blob/master/speedChanges.jpg)
 
 ### Optimizations criteria
 - [x] critical css
